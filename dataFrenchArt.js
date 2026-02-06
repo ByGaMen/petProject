@@ -1,6 +1,6 @@
 export const frenchArt = [
   {
-    img: "/pictures/france/amurHaunt.jpg",
+    img: "./pictures/france/amurHaunt.jpg",
     author: "Марсель Руссо",
     title: "Охота Амура",
     info: "Холст, масло (50х80)",
@@ -8,7 +8,7 @@ export const frenchArt = [
     shopButton: "В корзину",
   },
   {
-    img: "/pictures/france/ladyWithDog.jpg",
+    img: "./pictures/france/ladyWithDog.jpg",
     author: "Анри Селин",
     title: "Дама с собачкой",
     info: "Акрил, бумага (50х80)",
@@ -16,7 +16,7 @@ export const frenchArt = [
     shopButton: "В корзину",
   },
   {
-    img: "/pictures/france/Proccedures.jpg",
+    img: "./pictures/france/Proccedures.jpg",
     author: "Франсуа Дюпон",
     title: "Процедура",
     info: "Цветная литография (40х60)",
@@ -24,7 +24,7 @@ export const frenchArt = [
     shopButton: "В корзину",
   },
   {
-    img: "/pictures/france/Rose.jpg",
+    img: "./pictures/france/Rose.jpg",
     author: "Луи  Детуш",
     title: "Роза",
     info: "Бумага, акрил (50х80)",
@@ -32,7 +32,7 @@ export const frenchArt = [
     shopButton: "В корзину",
   },
   {
-    img: "/pictures/france/birds.jpg",
+    img: "./pictures/france/birds.jpg",
     author: "Франсуа Дюпон",
     title: "Птичья трапеза",
     info: "Цветная  литография (40х60)",
@@ -40,7 +40,7 @@ export const frenchArt = [
     shopButton: "В корзину",
   },
   {
-    img: "/pictures/france/fish.jpg",
+    img: "./pictures/france/fish.jpg",
     author: "Пьер Моранж",
     title: "Пейзаж с рыбой",
     info: "Цветная литография (40х60)",
