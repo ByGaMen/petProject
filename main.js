@@ -1,6 +1,6 @@
 const frenchArt = [
   {
-    img: "./pictures/france/amurhaunt.jpg",
+    img: "/petProject/pictures/france/amurhaunt.jpg",
     author: "Марсель Руссо",
     title: "Охота Амура",
     info: "Холст, масло (50х80)",
